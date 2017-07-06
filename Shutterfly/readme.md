@@ -9,7 +9,7 @@ pip install python-dateutil
 
 ## How to run the scripts
 
-runLTV.py {input_fileName} {output_fileName} {no_of_customer_to_Get}
+jobs\runLTV.py {input_fileName} {output_fileName} {no_of_customer_to_Get}
 
 --sample: python jobs\runLTV.py input/input.txt output/output.txt 10
 
